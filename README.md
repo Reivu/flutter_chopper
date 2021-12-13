@@ -1,6 +1,6 @@
 # flutter_chopper
 
-A Flutter Chopper Example.
+A Flutter Chopper.
 
 ## Libraries
 * chopper
